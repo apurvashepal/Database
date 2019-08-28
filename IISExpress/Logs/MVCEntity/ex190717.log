@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 05:05:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 05:05:24 ::1 GET / - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 26514
+2019-07-17 05:05:24 ::1 GET /Content/site.css - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/ 200 0 0 24
+2019-07-17 05:05:24 ::1 GET /Scripts/modernizr-2.6.2.js - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/ 200 0 0 22
+2019-07-17 05:05:24 ::1 GET /Scripts/jquery-1.8.2.js - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/ 200 0 0 61
+2019-07-17 05:05:26 ::1 GET /Images/heroAccent.png - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/Content/site.css 200 0 0 7
+2019-07-17 05:05:26 ::1 GET /Images/orderedList2.png - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/Content/site.css 200 0 0 32
+2019-07-17 05:05:26 ::1 GET /Images/orderedList3.png - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/Content/site.css 200 0 0 35
+2019-07-17 05:05:26 ::1 GET /Images/orderedList1.png - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/Content/site.css 200 0 0 37
+2019-07-17 05:05:27 ::1 GET /favicon.ico - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/ 200 0 0 41
+2019-07-17 05:05:29 ::1 GET /__browserLink/requestData/79b6d3cab83e4dfa83cdbd3dae07c88e - 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/ 200 0 0 114
+2019-07-17 05:05:42 ::1 GET /RoomDetails/CreateRoom - 50359 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 93
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 05:06:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 05:06:54 ::1 GET /RoomDetails/CreateRoom - 50359 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 5287
+2019-07-17 05:10:28 ::1 GET /13480a7e24cb48db8a436abd8a8718dc/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A50359%2F&browserName=Chrome&_=1563340227965 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/ 404 0 0 39
+2019-07-17 05:15:27 ::1 GET /13480a7e24cb48db8a436abd8a8718dc/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A50359%2F&browserName=Chrome&_=1563340527961 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/ 404 0 0 17
+2019-07-17 05:20:28 ::1 GET /13480a7e24cb48db8a436abd8a8718dc/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A50359%2F&browserName=Chrome&_=1563340828628 50359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:50359/ 404 0 0 19

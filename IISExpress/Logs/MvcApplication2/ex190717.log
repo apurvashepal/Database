@@ -1,0 +1,294 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 06:47:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 06:47:20 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 17839
+2019-07-17 06:50:36 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 5775
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 06:53:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 06:53:09 ::1 GET / - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 15670
+2019-07-17 06:53:09 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 164
+2019-07-17 06:53:09 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 167
+2019-07-17 06:53:09 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 308
+2019-07-17 06:53:11 ::1 GET /Images/heroAccent.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 200 0 0 7
+2019-07-17 06:53:11 ::1 GET /Images/orderedList1.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 200 0 0 133
+2019-07-17 06:53:11 ::1 GET /Images/orderedList2.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 200 0 0 139
+2019-07-17 06:53:11 ::1 GET /Images/orderedList3.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 200 0 0 63
+2019-07-17 06:53:11 ::1 GET /favicon.ico - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 92
+2019-07-17 06:53:15 ::1 GET /__browserLink/requestData/c8dc5ba1a25f402a8c3f16467272170c - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 138
+2019-07-17 06:53:27 ::1 GET /Room/ - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 500 0 0 392
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 06:58:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 06:58:40 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 64 25395
+2019-07-17 06:59:18 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 4176
+2019-07-17 06:59:50 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 302 0 0 5802
+2019-07-17 06:59:50 ::1 GET /Room - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 226
+2019-07-17 07:00:37 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 10920
+2019-07-17 07:00:37 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 107
+2019-07-17 07:00:37 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 121
+2019-07-17 07:00:37 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 53
+2019-07-17 07:00:39 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 9
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 07:01:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 07:01:05 ::1 GET / - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 19475
+2019-07-17 07:01:05 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 304 0 0 30
+2019-07-17 07:01:05 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 304 0 0 30
+2019-07-17 07:01:05 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 304 0 0 32
+2019-07-17 07:01:07 ::1 GET /Images/heroAccent.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 6
+2019-07-17 07:01:07 ::1 GET /Images/orderedList1.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 25
+2019-07-17 07:01:07 ::1 GET /Images/orderedList2.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 28
+2019-07-17 07:01:07 ::1 GET /Images/orderedList3.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 28
+2019-07-17 07:01:10 ::1 GET /__browserLink/requestData/e6552bbfc07e493db34b4509ea6f24db - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 200
+2019-07-17 07:01:10 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 2925
+2019-07-17 07:01:10 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 14
+2019-07-17 07:01:10 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 53
+2019-07-17 07:01:10 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 47
+2019-07-17 07:01:11 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 98
+2019-07-17 07:01:20 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 59
+2019-07-17 07:01:20 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 31
+2019-07-17 07:01:20 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 50
+2019-07-17 07:01:20 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 108
+2019-07-17 07:01:20 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 103
+2019-07-17 07:02:02 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 37
+2019-07-17 07:02:02 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 200 0 0 30
+2019-07-17 07:02:04 ::1 GET /__browserLink/requestData/fe49dff1c9644327b73c61ea5c53d1f5 - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 30
+2019-07-17 07:02:10 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 49
+2019-07-17 07:02:12 ::1 GET /__browserLink/requestData/db9ea2144f784832b487e8cda1a5a298 - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 7
+2019-07-17 07:02:49 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 125
+2019-07-17 07:02:50 ::1 GET /__browserLink/requestData/758d6fd836cc4d2ea1d2f51f30287360 - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 13
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 07:08:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 07:08:14 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 64 19091
+2019-07-17 07:08:14 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 12106
+2019-07-17 07:08:14 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 27
+2019-07-17 07:08:14 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 27
+2019-07-17 07:08:14 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 68
+2019-07-17 07:08:14 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 8
+2019-07-17 07:11:58 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 64 18665
+2019-07-17 07:11:58 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 10801
+2019-07-17 07:11:58 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 20
+2019-07-17 07:11:58 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 37
+2019-07-17 07:11:58 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 148
+2019-07-17 07:11:58 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 13
+2019-07-17 07:12:50 ::1 GET /4363ad4bf2ce4096a1f20f094b72895b/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A55207%2FRoom%2FCreate&browserName=Chrome&_=1563347569668 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 404 0 0 735
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 08:58:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 08:58:57 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 500 0 0 7720
+2019-07-17 08:59:08 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 64 25137
+2019-07-17 08:59:33 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 11
+2019-07-17 08:59:33 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 68
+2019-07-17 08:59:33 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 85
+2019-07-17 08:59:33 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 77
+2019-07-17 08:59:35 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 5
+2019-07-17 08:59:42 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 789
+2019-07-17 08:59:42 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 17
+2019-07-17 08:59:42 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 3
+2019-07-17 08:59:42 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 89
+2019-07-17 08:59:42 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 60
+2019-07-17 09:00:08 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 11
+2019-07-17 09:00:08 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 109
+2019-07-17 09:00:08 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 168
+2019-07-17 09:00:08 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 234
+2019-07-17 09:00:14 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 7
+2019-07-17 09:00:22 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 500 0 0 610
+2019-07-17 09:04:25 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 19
+2019-07-17 09:04:25 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 41
+2019-07-17 09:04:25 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 70
+2019-07-17 09:04:25 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 103
+2019-07-17 09:04:25 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 5
+2019-07-17 09:04:30 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 500 0 0 29
+2019-07-17 09:11:11 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 1515
+2019-07-17 09:11:11 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 43
+2019-07-17 09:11:11 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 154
+2019-07-17 09:11:11 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 92
+2019-07-17 09:11:11 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 7
+2019-07-17 09:11:23 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 500 0 0 62
+2019-07-17 09:11:26 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 24
+2019-07-17 09:11:26 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 50
+2019-07-17 09:11:26 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 30
+2019-07-17 09:11:26 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 19
+2019-07-17 09:11:26 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 125
+2019-07-17 09:11:33 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 29
+2019-07-17 09:11:33 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 17
+2019-07-17 09:11:33 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 33
+2019-07-17 09:11:33 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 86
+2019-07-17 09:11:33 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 4
+2019-07-17 09:12:00 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 1943
+2019-07-17 09:23:47 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 64 14990
+2019-07-17 09:23:47 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 1705
+2019-07-17 09:23:47 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 37
+2019-07-17 09:23:47 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 60
+2019-07-17 09:23:47 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 77
+2019-07-17 09:23:47 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 304 0 0 5
+2019-07-17 09:23:54 ::1 GET /Room/delete id=0 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 500 0 0 1264
+2019-07-17 09:24:54 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 49
+2019-07-17 09:24:54 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 33
+2019-07-17 09:24:54 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 82
+2019-07-17 09:24:54 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 88
+2019-07-17 09:24:54 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 304 0 0 14
+2019-07-17 09:24:57 ::1 GET /Room/Edit id=101 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 404 0 0 34
+2019-07-17 09:25:52 ::1 GET /Room/Edit id=101 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 3
+2019-07-17 09:25:54 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 1319
+2019-07-17 09:25:54 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 75
+2019-07-17 09:25:54 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 18
+2019-07-17 09:25:54 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 304 0 0 6
+2019-07-17 09:25:54 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 163
+2019-07-17 09:25:57 ::1 GET /Room/Edit id=101 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 404 0 0 12
+2019-07-17 09:28:04 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 5688
+2019-07-17 09:28:04 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 49
+2019-07-17 09:28:04 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 88
+2019-07-17 09:28:04 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 148
+2019-07-17 09:28:06 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 304 0 0 21
+2019-07-17 09:28:10 ::1 GET /Room/Edit - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 404 0 0 7
+2019-07-17 09:28:55 ::1 GET /Room/Edit - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 39
+2019-07-17 09:30:08 ::1 GET /Room/Edit - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 103
+2019-07-17 09:31:25 ::1 GET /Room/Edit - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 18343
+2019-07-17 09:32:57 ::1 GET /Room/Edit - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 64 18445
+2019-07-17 09:33:07 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 18624
+2019-07-17 09:33:07 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 26
+2019-07-17 09:33:07 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 45
+2019-07-17 09:33:07 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 30
+2019-07-17 09:33:07 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 304 0 0 149
+2019-07-17 09:33:16 ::1 GET /Room/Edit - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 500 0 0 20
+2019-07-17 09:33:57 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 11
+2019-07-17 09:33:57 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 21
+2019-07-17 09:33:57 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 38
+2019-07-17 09:33:57 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 304 0 0 1
+2019-07-17 09:33:57 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 63
+2019-07-17 09:34:00 ::1 GET /Room/Edit id=101 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 35
+2019-07-17 09:34:00 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 200 0 0 6
+2019-07-17 09:34:00 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 200 0 0 10
+2019-07-17 09:34:00 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 200 0 0 71
+2019-07-17 09:34:00 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 304 0 0 31
+2019-07-17 09:34:18 ::1 POST /Room/Edit id=101 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 302 0 0 247
+2019-07-17 09:34:21 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 200 0 0 3040
+2019-07-17 09:34:21 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 105
+2019-07-17 09:34:21 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 180
+2019-07-17 09:34:21 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 131
+2019-07-17 09:34:23 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 304 0 0 38
+2019-07-17 09:34:38 ::1 GET /Room/Edit id=101 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 60
+2019-07-17 09:34:38 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 200 0 0 71
+2019-07-17 09:34:38 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 200 0 0 75
+2019-07-17 09:34:38 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 200 0 0 113
+2019-07-17 09:34:40 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 304 0 0 69
+2019-07-17 09:34:49 ::1 POST /Room/Edit id=101 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 302 0 0 141
+2019-07-17 09:34:49 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Edit?id=101 200 0 0 76
+2019-07-17 09:34:49 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 12
+2019-07-17 09:34:49 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 13
+2019-07-17 09:34:49 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 200 0 0 43
+2019-07-17 09:34:49 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Viewdetails 304 0 0 40
+2019-07-17 09:41:28 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 986
+2019-07-17 09:41:41 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 13
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 09:43:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 09:43:28 ::1 GET / - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 64 64352
+2019-07-17 09:43:28 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 16682
+2019-07-17 09:43:28 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 304 0 0 6
+2019-07-17 09:43:28 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 304 0 0 4
+2019-07-17 09:43:28 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 304 0 0 44
+2019-07-17 09:43:29 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 2
+2019-07-17 09:43:29 ::1 GET /__browserLink/requestData/d8c57d82504247baa5092d4a3da8f076 - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 216
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 09:45:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 09:45:00 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 7941
+2019-07-17 09:45:00 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 23
+2019-07-17 09:45:00 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 32
+2019-07-17 09:45:00 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 57
+2019-07-17 09:45:00 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 14
+2019-07-17 09:46:00 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 2871
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 09:47:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 09:47:28 ::1 GET / - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 30638
+2019-07-17 09:47:28 ::1 GET /Images/heroAccent.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 19
+2019-07-17 09:47:28 ::1 GET /Images/orderedList1.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 19
+2019-07-17 09:47:28 ::1 GET /Images/orderedList3.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 19
+2019-07-17 09:47:28 ::1 GET /Images/orderedList2.png - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Content/site.css 304 0 0 45
+2019-07-17 09:47:29 ::1 GET /__browserLink/requestData/bc3c221e740c491288fa1c7dd0143d4b - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 51
+2019-07-17 09:47:35 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 3493
+2019-07-17 09:47:35 ::1 GET /__browserLink/requestData/ca7148199cb24710a2b7d29ce02fcd34 - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 11
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 09:49:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 09:49:13 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 31164
+2019-07-17 09:49:13 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 93
+2019-07-17 09:49:13 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 59
+2019-07-17 09:49:13 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 216
+2019-07-17 09:49:16 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 4
+2019-07-17 09:49:53 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 500 0 0 8895
+2019-07-17 09:50:02 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 64 22797
+2019-07-17 09:51:28 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 25973
+2019-07-17 09:51:28 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 146
+2019-07-17 09:51:28 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 162
+2019-07-17 09:51:28 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 191
+2019-07-17 09:51:30 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 81
+2019-07-17 09:51:32 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 118
+2019-07-17 09:51:32 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 40
+2019-07-17 09:51:32 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 40
+2019-07-17 09:51:32 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 183
+2019-07-17 09:51:35 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 51
+2019-07-17 09:51:42 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 500 0 0 95
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 09:52:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 09:52:16 ::1 GET / - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 8406
+2019-07-17 09:52:20 ::1 GET /__browserLink/requestData/e8fc476c2495432681e678069d771a84 - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 114
+2019-07-17 09:52:41 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 7169
+2019-07-17 09:52:41 ::1 GET /__browserLink/requestData/53714d95ea0c44a5b9d3fb6849370cf3 - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 11
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 09:55:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 09:55:11 ::1 GET / - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 37820
+2019-07-17 09:55:13 ::1 GET /__browserLink/requestData/40b647f85a4a4b35bd1808b42062f9da - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 240
+2019-07-17 09:55:33 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 11293
+2019-07-17 09:55:33 ::1 GET /__browserLink/requestData/0670f44e16584a1e87345b754a27c3cf - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 4
+2019-07-17 09:56:10 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 500 0 0 29871
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 09:57:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 09:57:50 ::1 GET / - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 38858
+2019-07-17 09:57:59 ::1 GET /__browserLink/requestData/0b79fbdc13394684bd89db3fb06a0d1c - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 190
+2019-07-17 09:58:05 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/ 200 0 0 5912
+2019-07-17 09:58:05 ::1 GET /__browserLink/requestData/23bff2c4fbbe4de9997945d6fdb6de49 - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 200 0 0 32
+2019-07-17 09:58:12 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:55207/Room/Create 500 0 0 954
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 09:59:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 09:59:32 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 27049
+2019-07-17 09:59:32 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 74
+2019-07-17 09:59:32 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 154
+2019-07-17 09:59:32 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 127
+2019-07-17 09:59:35 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 15
+2019-07-17 09:59:35 ::1 GET /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 99
+2019-07-17 09:59:35 ::1 GET /Content/site.css - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 2
+2019-07-17 09:59:35 ::1 GET /Scripts/modernizr-2.6.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 7
+2019-07-17 09:59:35 ::1 GET /Scripts/jquery-1.8.2.js - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 200 0 0 26
+2019-07-17 09:59:36 ::1 GET /Images/accent.png - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 304 0 0 5
+2019-07-17 09:59:45 ::1 POST /Room/Create - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:55207/Room/Create 500 0 0 982
+2019-07-17 10:01:29 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 18383
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-17 10:17:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-17 10:17:28 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 44262
+2019-07-17 10:17:48 ::1 GET /Room/Viewdetails - 55207 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 172

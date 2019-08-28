@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-15 07:26:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-15 07:26:57 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 64 17215
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-15 07:32:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-15 07:32:36 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 6125
+2019-07-15 07:32:49 ::1 GET /api/Employee - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 1881
+2019-07-15 07:32:55 ::1 GET /api/GetEmployee - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 21
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-15 07:34:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-15 07:34:05 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 6547

@@ -1,0 +1,212 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 06:54:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 06:54:56 ::1 GET / - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 19013
+2019-07-18 06:54:56 ::1 GET /Content/site.css - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 304 0 0 239
+2019-07-18 06:54:56 ::1 GET /Scripts/modernizr-2.6.2.js - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 304 0 0 239
+2019-07-18 06:54:56 ::1 GET /Scripts/jquery-1.8.2.js - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 304 0 0 239
+2019-07-18 06:54:57 ::1 GET /Images/heroAccent.png - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Content/site.css 304 0 0 12
+2019-07-18 06:54:59 ::1 GET /__browserLink/requestData/39081c72ef6b457f8458e37ffe4af2b4 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 65
+2019-07-18 06:55:04 ::1 GET /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 2330
+2019-07-18 06:55:04 ::1 GET /Images/accent.png - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Content/site.css 304 0 0 14
+2019-07-18 06:55:04 ::1 GET /__browserLink/requestData/213202d64a38437e86a5e893940641ca - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 8
+2019-07-18 06:55:36 ::1 POST /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 500 0 64 27966
+2019-07-18 06:55:37 ::1 POST /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 26582
+2019-07-18 06:55:37 ::1 GET /__browserLink/requestData/0bf51717a56540faaa2b9a2d821612d3 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 17
+2019-07-18 06:56:08 ::1 POST /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 500 0 0 27088
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:03:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:03:42 ::1 GET / - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 12072
+2019-07-18 07:03:42 ::1 GET /__browserLink/requestData/010e8af5052347c8aec44675040263a0 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 67
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:05:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:05:16 ::1 GET /Room/Create - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 10304
+2019-07-18 07:05:16 ::1 GET /Content/site.css - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Create 200 0 0 16
+2019-07-18 07:05:16 ::1 GET /Scripts/modernizr-2.6.2.js - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Create 200 0 0 42
+2019-07-18 07:05:16 ::1 GET /Scripts/jquery-1.8.2.js - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Create 200 0 0 94
+2019-07-18 07:05:18 ::1 GET /Images/accent.png - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Create 304 0 0 4
+2019-07-18 07:08:32 ::1 GET /Room/Create - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 7961
+2019-07-18 07:08:32 ::1 GET /Content/site.css - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Create 200 0 0 110
+2019-07-18 07:08:32 ::1 GET /Scripts/modernizr-2.6.2.js - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Create 200 0 0 134
+2019-07-18 07:08:32 ::1 GET /Images/accent.png - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Create 304 0 0 13
+2019-07-18 07:08:32 ::1 GET /Scripts/jquery-1.8.2.js - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Create 200 0 0 123
+2019-07-18 07:08:42 ::1 GET /4e10cd3054f940f0bf8e249b862dbb24/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A51709%2F&browserName=Chrome&_=1563433722696 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 82
+2019-07-18 07:09:43 ::1 GET /CheckIn/Viewchekin - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 3650
+2019-07-18 07:09:43 ::1 GET /Content/site.css - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/CheckIn/Viewchekin 200 0 0 77
+2019-07-18 07:09:43 ::1 GET /Scripts/modernizr-2.6.2.js - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/CheckIn/Viewchekin 200 0 0 107
+2019-07-18 07:09:43 ::1 GET /Scripts/jquery-1.8.2.js - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/CheckIn/Viewchekin 200 0 0 100
+2019-07-18 07:13:42 ::1 GET /4e10cd3054f940f0bf8e249b862dbb24/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A51709%2F&browserName=Chrome&_=1563434022694 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 5
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:14:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:14:02 ::1 GET / - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 13730
+2019-07-18 07:14:04 ::1 GET /__browserLink/requestData/bfac0eb5c5184117b8093d5ec59d883f - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 78
+2019-07-18 07:14:18 ::1 GET /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 0 9524
+2019-07-18 07:14:49 ::1 GET /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 3912
+2019-07-18 07:14:49 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 17
+2019-07-18 07:14:49 ::1 GET /__browserLink/requestData/f2e6763e518d4b44a3025c319d734050 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 6
+2019-07-18 07:14:58 ::1 POST /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 5702
+2019-07-18 07:14:58 ::1 GET /__browserLink/requestData/20a45336f3d6480087c66851a23e3b11 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 4
+2019-07-18 07:15:02 ::1 POST /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 2092
+2019-07-18 07:15:02 ::1 GET /__browserLink/requestData/769417fed43747efb2f0d34ff4877f65 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 11
+2019-07-18 07:15:05 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 646
+2019-07-18 07:15:05 ::1 GET /__browserLink/requestData/2366528dd8ab47bf9a59cb09756c73e9 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 7
+2019-07-18 07:15:29 ::1 GET /__browserLink/requestData/2366528dd8ab47bf9a59cb09756c73e9 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 404 0 0 23
+2019-07-18 07:16:05 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 1566
+2019-07-18 07:16:05 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 33
+2019-07-18 07:16:05 ::1 GET /__browserLink/requestData/48879c66e2224c1096321dcac62b1aad - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 5
+2019-07-18 07:16:20 ::1 GET /Room/Edit - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 167
+2019-07-18 07:16:36 ::1 GET /Room/Edit =136 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 85
+2019-07-18 07:16:39 ::1 GET /Room/Edit =1 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 81
+2019-07-18 07:17:03 ::1 GET /Room/Edit id=1 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 200 0 0 1310
+2019-07-18 07:17:03 ::1 GET /Scripts/modernizr-2.6.2.js - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Edit?id=1 200 0 0 25
+2019-07-18 07:17:03 ::1 GET /Content/site.css - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Edit?id=1 200 0 0 49
+2019-07-18 07:17:03 ::1 GET /Scripts/jquery-1.8.2.js - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Edit?id=1 200 0 0 151
+2019-07-18 07:17:04 ::1 GET /Images/accent.png - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) http://localhost:51709/Room/Edit?id=1 304 0 0 234
+2019-07-18 07:17:18 ::1 GET /Room/Edit - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 89
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:18:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:18:14 ::1 GET / - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 4928
+2019-07-18 07:18:14 ::1 GET /__browserLink/requestData/1eb89a408a794792a4c212c2cefc349b - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 72
+2019-07-18 07:18:21 ::1 GET /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 5237
+2019-07-18 07:18:21 ::1 GET /__browserLink/requestData/4e93393d77ae400597c21c6ea582480d - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 5
+2019-07-18 07:18:27 ::1 POST /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 2393
+2019-07-18 07:18:27 ::1 GET /__browserLink/requestData/8129e6b1b8bc40e2a1c2c6756eff773b - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 5
+2019-07-18 07:18:33 ::1 POST /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 3139
+2019-07-18 07:18:33 ::1 GET /__browserLink/requestData/eff0c97d774242adbac7e7e537e6aefd - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 3
+2019-07-18 07:18:38 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 1987
+2019-07-18 07:18:38 ::1 GET /__browserLink/requestData/e130416d0b7b4d8ebd6668220f17dffc - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 5
+2019-07-18 07:18:42 ::1 GET /Room/Edit id=R_Id 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 369
+2019-07-18 07:18:42 ::1 GET /4e10cd3054f940f0bf8e249b862dbb24/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A51709%2F&browserName=Chrome&_=1563434323121 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 61
+2019-07-18 07:19:47 ::1 GET /Room/Edit id=R_Id 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 224
+2019-07-18 07:19:47 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Edit?id=R_Id 200 0 0 44
+2019-07-18 07:19:48 ::1 GET /__browserLink/requestData/e130416d0b7b4d8ebd6668220f17dffc - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 404 0 0 2
+2019-07-18 07:19:51 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 1271
+2019-07-18 07:19:51 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 34
+2019-07-18 07:19:51 ::1 GET /__browserLink/requestData/1a39f1393b0b4e688f261fcc564a8ad0 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 5
+2019-07-18 07:19:54 ::1 GET /Room/Edit id=RD.R_Id 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 189
+2019-07-18 07:20:53 ::1 GET /__browserLink/requestData/1a39f1393b0b4e688f261fcc564a8ad0 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 404 0 0 6
+2019-07-18 07:20:55 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 1401
+2019-07-18 07:20:55 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 32
+2019-07-18 07:20:55 ::1 GET /__browserLink/requestData/901f790011ca4b4fa18b8cc27b0e724a - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 5
+2019-07-18 07:20:58 ::1 GET /Room/Edit - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 86
+2019-07-18 07:21:09 ::1 GET /__browserLink/requestData/901f790011ca4b4fa18b8cc27b0e724a - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 404 0 0 2
+2019-07-18 07:22:19 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 1224
+2019-07-18 07:22:19 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 14
+2019-07-18 07:22:19 ::1 GET /__browserLink/requestData/45a5a78da0da41fda82f53caa380bc43 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 5
+2019-07-18 07:22:21 ::1 GET /Room/Delete Id=RD.R_Id 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 189
+2019-07-18 07:23:30 ::1 GET /Room/Delete Id=RD.R_Id 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 215
+2019-07-18 07:23:30 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Delete?Id=RD.R_Id 200 0 0 24
+2019-07-18 07:23:30 ::1 GET /Room/Delete Id=RD.R_Id 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 214
+2019-07-18 07:23:31 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Delete?Id=RD.R_Id 200 0 0 9
+2019-07-18 07:23:31 ::1 GET /Room/Delete Id=RD.R_Id 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 238
+2019-07-18 07:23:31 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Delete?Id=RD.R_Id 200 0 0 2
+2019-07-18 07:23:31 ::1 GET /__browserLink/requestData/45a5a78da0da41fda82f53caa380bc43 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 404 0 0 3
+2019-07-18 07:23:36 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 500 0 0 1686
+2019-07-18 07:23:36 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 14
+2019-07-18 07:23:43 ::1 GET /4e10cd3054f940f0bf8e249b862dbb24/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A51709%2F&browserName=Chrome&_=1563434623119 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 41
+2019-07-18 07:23:55 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 500 0 0 1374
+2019-07-18 07:23:55 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 1
+2019-07-18 07:24:27 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 962
+2019-07-18 07:24:27 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 1
+2019-07-18 07:24:27 ::1 GET /__browserLink/requestData/56c8327a648b471387a9059438aba470 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 7
+2019-07-18 07:24:29 ::1 GET /Room/Delete Id=modelItem%20=%3E%20Rd.R_Id 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 189
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:27:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:27:42 ::1 GET /Room/Edit - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 6368
+2019-07-18 07:28:43 ::1 GET /4e10cd3054f940f0bf8e249b862dbb24/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A51709%2F&browserName=Chrome&_=1563434923117 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 38
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:29:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:29:08 ::1 GET / - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 9988
+2019-07-18 07:29:08 ::1 GET /__browserLink/requestData/836cbec7da0a4a45b682fcb3dced26b2 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 94
+2019-07-18 07:29:14 ::1 GET /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 3961
+2019-07-18 07:29:14 ::1 GET /__browserLink/requestData/f817d58494d6421d8a593eaca37f29f6 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 17
+2019-07-18 07:29:20 ::1 POST /Room/Create - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 2934
+2019-07-18 07:29:20 ::1 GET /__browserLink/requestData/cd8123874deb4b159fe8fb92a6d5fd04 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 3
+2019-07-18 07:29:22 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 200 0 0 585
+2019-07-18 07:29:22 ::1 GET /__browserLink/requestData/2f557dc7db4a4f7784b6c46ec5667b9a - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 5
+2019-07-18 07:29:24 ::1 GET /Room/Edit - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 500 0 0 140
+2019-07-18 07:30:20 ::1 GET /Room/Delete Id=(modelItem%20=>%20Rd.R_Id) 51709 - ::1 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.3;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) - 500 0 0 349
+2019-07-18 07:33:43 ::1 GET /4e10cd3054f940f0bf8e249b862dbb24/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A51709%2F&browserName=Chrome&_=1563435223119 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 47
+2019-07-18 07:34:30 ::1 GET /__browserLink/requestData/2f557dc7db4a4f7784b6c46ec5667b9a - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 404 0 0 3
+2019-07-18 07:34:34 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 500 0 0 2431
+2019-07-18 07:34:34 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 27
+2019-07-18 07:35:29 ::1 GET /Room/Viewdetails - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Create 500 0 0 1365
+2019-07-18 07:35:29 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Room/Viewdetails 200 0 0 6
+2019-07-18 07:38:43 ::1 GET /4e10cd3054f940f0bf8e249b862dbb24/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A51709%2F&browserName=Chrome&_=1563435523118 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 24
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:42:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:42:01 ::1 GET / - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 6367
+2019-07-18 07:42:02 ::1 GET /__browserLink/requestData/0cb051be24d1448ba7f6b11131c54a90 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 78
+2019-07-18 07:42:10 ::1 GET /CheckIn/Viewchekin - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 0 5406
+2019-07-18 07:43:02 ::1 GET /CheckIn/Viewchekin - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 0 167
+2019-07-18 07:43:02 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/Viewchekin 200 0 0 15
+2019-07-18 07:43:04 ::1 GET /CheckIn/Viewchekin - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 64 1020
+2019-07-18 07:43:21 ::1 GET /CheckIn/Viewchekin - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 0 165
+2019-07-18 07:43:21 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/Viewchekin 200 0 0 23
+2019-07-18 07:43:23 ::1 GET /CheckIn/Viewchekin - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 0 1448
+2019-07-18 07:43:23 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/Viewchekin 200 0 0 166
+2019-07-18 07:43:43 ::1 GET /4e10cd3054f940f0bf8e249b862dbb24/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A51709%2F&browserName=Chrome&_=1563435823118 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 42
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:44:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:44:16 ::1 GET / - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 4940
+2019-07-18 07:44:16 ::1 GET /__browserLink/requestData/a2495e5489594bb79341cb57b6926757 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 67
+2019-07-18 07:44:24 ::1 GET /CheckIn/Viewchekin - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 4533
+2019-07-18 07:44:24 ::1 GET /__browserLink/requestData/39438127924447cc93f3a4b976abf1de - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/Viewchekin 200 0 0 5
+2019-07-18 07:44:29 ::1 GET /__browserLink/requestData/a2495e5489594bb79341cb57b6926757 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 404 0 0 4
+2019-07-18 07:44:29 ::1 GET /CheckIn/CheckIn - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 302 0 0 18
+2019-07-18 07:44:44 ::1 GET /Account/Login ReturnUrl=%2fCheckIn%2fCheckIn 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 14386
+2019-07-18 07:44:44 ::1 GET /Scripts/jquery.validate.unobtrusive.js - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Account/Login?ReturnUrl=%2fCheckIn%2fCheckIn 200 0 0 41
+2019-07-18 07:44:44 ::1 GET /Scripts/jquery.unobtrusive-ajax.js - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Account/Login?ReturnUrl=%2fCheckIn%2fCheckIn 200 0 0 117
+2019-07-18 07:44:44 ::1 GET /Scripts/jquery.validate.js - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Account/Login?ReturnUrl=%2fCheckIn%2fCheckIn 200 0 0 112
+2019-07-18 07:44:44 ::1 GET /__browserLink/requestData/4839000b028b4c85ab1f10d68bb0c604 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Account/Login?ReturnUrl=%2fCheckIn%2fCheckIn 200 0 0 16
+2019-07-18 07:44:48 ::1 GET /Account/Register - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Account/Login?ReturnUrl=%2fCheckIn%2fCheckIn 200 0 0 267
+2019-07-18 07:44:48 ::1 GET /__browserLink/requestData/7df18572361a42b198f6969e4ca6e626 - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Account/Register 200 0 0 7
+2019-07-18 07:45:24 ::1 POST /Account/Register - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Account/Register 302 0 0 424
+2019-07-18 07:45:24 ::1 GET / - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/Account/Register 200 0 0 16
+2019-07-18 07:45:24 ::1 GET /__browserLink/requestData/b07eba5b130f4b2aab8fa5a149df8329 - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 19
+2019-07-18 07:45:31 ::1 GET /CheckIn/CheckIn Rooms+quantity+not+availableRooms+quantity+not+availableRooms+quantity+not+available 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 0 2668
+2019-07-18 07:45:48 ::1 GET /CheckIn/CheckIn Rooms+quantity+not+availableRooms+quantity+not+availableRooms+quantity+not+available 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 0 4479
+2019-07-18 07:45:48 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 20
+2019-07-18 07:46:40 ::1 GET /CheckIn/CheckIn Rooms+quantity+not+availableRooms+quantity+not+availableRooms+quantity+not+available 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 500 0 0 3389
+2019-07-18 07:46:40 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 12
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:49:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:49:01 127.0.0.1 GET / - 51709 Admin 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 27834
+2019-07-18 07:49:01 ::1 GET /CheckIn/CheckIn Rooms+quantity+not+availableRooms+quantity+not+availableRooms+quantity+not+available 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 - 200 0 0 28284
+2019-07-18 07:49:01 ::1 GET /__browserLink/requestData/78bc877bf81f47928b07b0806079cd3d - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 133
+2019-07-18 07:49:03 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 67
+2019-07-18 07:49:03 ::1 GET /__browserLink/requestData/05208b860f8747f4be9dd680ae1b9642 - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 5
+2019-07-18 07:49:06 ::1 GET /CheckIn/CheckIn Rooms+quantity+not+availableRooms+quantity+not+availableRooms+quantity+not+available 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 2072
+2019-07-18 07:49:06 ::1 GET /__browserLink/requestData/1667e1e5c4534ac98d33a83019b0bd1a - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 4
+2019-07-18 07:49:32 ::1 GET /CheckIn/Viewchekin - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 169
+2019-07-18 07:49:32 ::1 GET /__browserLink/requestData/a0374e67201b48ddbfac252d1643acd9 - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/Viewchekin 200 0 0 4
+2019-07-18 07:49:35 ::1 GET /__browserLink/requestData/1667e1e5c4534ac98d33a83019b0bd1a - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 404 0 0 4
+2019-07-18 07:50:44 ::1 GET /CheckIn/CheckIn Rooms+quantity+not+availableRooms+quantity+not+availableRooms+quantity+not+available 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/ 200 0 0 3761
+2019-07-18 07:50:44 ::1 GET /favicon.ico - 51709 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 26
+2019-07-18 07:50:44 ::1 GET /__browserLink/requestData/dfd3dd7189ca4f94b4905301f316016a - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 4
+2019-07-18 07:52:21 ::1 GET /CheckIn/Viewchekin - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/CheckIn 200 0 0 4062
+2019-07-18 07:52:21 ::1 GET /__browserLink/requestData/d37f621ff8dc411a80a58f4023b5244e - 51709 Admin ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.142+Safari/537.36 http://localhost:51709/CheckIn/Viewchekin 200 0 0 10
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-18 07:55:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-18 07:55:47 ::1 GET /CheckIn/CheckOut - 51709 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 500 0 0 18813

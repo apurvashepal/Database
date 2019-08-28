@@ -1,0 +1,156 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 09:41:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 09:41:22 ::1 GET /Home/Index - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 12773
+2019-07-11 09:41:22 ::1 GET /favicon.ico - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/Index 500 0 0 20
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 09:50:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 09:50:06 ::1 GET /Home/Index - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 2129
+2019-07-11 09:50:06 ::1 GET /favicon.ico - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/Index 500 0 0 1
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 10:02:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 10:02:39 ::1 GET /Home/Index - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 12639
+2019-07-11 10:02:39 ::1 GET /favicon.ico - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/Index 500 0 0 9
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 10:09:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 10:09:39 ::1 GET /Home/Index - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 4246
+2019-07-11 10:09:39 ::1 GET /favicon.ico - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/Index 500 0 0 9
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 11:58:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 11:58:32 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 10657
+2019-07-11 11:58:32 ::1 GET /Scripts/modernizr-2.6.2.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 54
+2019-07-11 11:58:32 ::1 GET /Scripts/bootstrap.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 59
+2019-07-11 11:58:32 ::1 GET /Scripts/jquery-1.10.2.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 66
+2019-07-11 11:58:32 ::1 GET /Content/site.css - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 71
+2019-07-11 11:58:32 ::1 GET /Scripts/respond.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 75
+2019-07-11 11:58:32 ::1 GET /Content/bootstrap.css - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 125
+2019-07-11 11:58:32 ::1 GET /favicon.ico - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 13
+2019-07-11 11:58:34 ::1 GET /__browserLink/requestData/11ebb223df5949b78f513337f9778a41 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 36
+2019-07-11 11:58:55 ::1 GET /View - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 0 0 127
+2019-07-11 11:59:07 ::1 GET /Controller/ - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 0 0 22
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 12:00:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 12:00:42 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 0 0 4706
+2019-07-11 12:00:50 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 29
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 12:01:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 12:01:34 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 11160
+2019-07-11 12:01:34 ::1 GET /__browserLink/requestData/6fd8b3f8821b43f38109417c14576e35 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 36
+2019-07-11 12:01:44 ::1 GET /View1 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 0 0 40
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 12:01:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 12:01:54 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 3135
+2019-07-11 12:02:03 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 10
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 12:04:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 12:04:50 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 10190
+2019-07-11 12:04:50 ::1 GET /__browserLink/requestData/7ec75b966134489d97fb6eb7edc0fa08 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 37
+2019-07-11 12:05:05 ::1 GET /Home - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 2776
+2019-07-11 12:05:05 ::1 GET /__browserLink/requestData/7cab57d89a2749f28d32f178f88524b3 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 200 0 0 5
+2019-07-11 12:05:22 ::1 GET /Home - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 7663
+2019-07-11 12:05:22 ::1 GET /__browserLink/requestData/f6df560584ca463dab6daf828d7c3c8f - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 200 0 0 6
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 12:06:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 12:06:23 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 12835
+2019-07-11 12:06:23 ::1 GET /__browserLink/requestData/20af2e85788f481098073d4008245737 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 35
+2019-07-11 12:06:32 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 0 0 37
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 12:10:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 12:10:33 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 15891
+2019-07-11 12:10:33 ::1 GET /__browserLink/requestData/599c6646286047e0a05e21f9c10d2b74 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 37
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 12:11:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 12:11:36 127.0.0.1 GET /Home - 49812 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 64 15872
+2019-07-11 12:11:36 127.0.0.1 GET / - 49812 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 15341
+2019-07-11 12:11:36 127.0.0.1 GET /__browserLink/requestData/a2265f7b378e4478bddf797acfa8e2bd - 49812 - 127.0.0.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 31
+2019-07-11 12:16:37 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2F&browserName=Chrome&_=1562847397151 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 404 0 0 85
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 12:34:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 12:34:23 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 21422
+2019-07-11 12:34:23 ::1 GET /Scripts/respond.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 304 0 0 18
+2019-07-11 12:34:23 ::1 GET /Content/bootstrap.css - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 304 0 0 18
+2019-07-11 12:34:23 ::1 GET /Content/site.css - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 304 0 0 18
+2019-07-11 12:34:23 ::1 GET /Scripts/bootstrap.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 304 0 0 18
+2019-07-11 12:34:23 ::1 GET /Scripts/jquery-1.10.2.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 304 0 0 37
+2019-07-11 12:34:23 ::1 GET /Scripts/modernizr-2.6.2.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 304 0 0 37
+2019-07-11 12:34:23 ::1 GET /__browserLink/requestData/e81c365e729d40a59d2483fe5134e596 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 200 0 0 35
+2019-07-11 12:34:34 ::1 GET /Home - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 4908
+2019-07-11 12:34:34 ::1 GET /__browserLink/requestData/0a11a702e7914995b1df2d2f5241ede2 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 200 0 0 6
+2019-07-11 12:36:37 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2F&browserName=Chrome&_=1562848597144 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 404 0 0 44
+2019-07-11 12:39:34 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2FHome&browserName=Chrome&_=1562848774497 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 404 0 0 30
+2019-07-11 12:41:37 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2F&browserName=Chrome&_=1562848897149 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 404 0 0 25
+2019-07-11 12:44:34 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2FHome&browserName=Chrome&_=1562849074494 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 404 0 0 32
+2019-07-11 12:46:37 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2F&browserName=Chrome&_=1562849197145 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 404 0 0 27
+2019-07-11 12:49:34 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2FHome&browserName=Chrome&_=1562849374494 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 404 0 0 31
+2019-07-11 12:51:37 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2F&browserName=Chrome&_=1562849497142 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 404 0 0 18
+2019-07-11 12:54:34 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2FHome&browserName=Chrome&_=1562849674494 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 404 0 0 30
+2019-07-11 12:56:37 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2F&browserName=Chrome&_=1562849797145 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 404 0 0 19
+2019-07-11 12:59:34 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2FHome&browserName=Chrome&_=1562849974495 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 404 0 0 18
+2019-07-11 13:01:37 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2F&browserName=Chrome&_=1562850097160 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 404 0 0 20
+2019-07-11 13:04:34 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2FHome&browserName=Chrome&_=1562850274494 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 404 0 0 27
+2019-07-11 13:06:37 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2F&browserName=Chrome&_=1562850397140 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/ 404 0 0 19
+2019-07-11 13:09:35 ::1 GET /0b52f6a3f88f4cfd83ab7e51196c4aa7/arterySignalR/ping requestUrl=http%3A%2F%2Flocalhost%3A49812%2FHome&browserName=Chrome&_=1562850575145 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home 404 0 0 17
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 13:09:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 13:09:52 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 0 0 2499
+2019-07-11 13:10:14 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 30
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 13:12:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 13:12:05 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 0 0 2350
+2019-07-11 13:12:17 ::1 GET /Home/ - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 7435
+2019-07-11 13:12:17 ::1 GET /Content/bootstrap.css - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/ 304 0 0 2
+2019-07-11 13:12:17 ::1 GET /Scripts/respond.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/ 304 0 0 4
+2019-07-11 13:12:17 ::1 GET /Content/site.css - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/ 304 0 0 59
+2019-07-11 13:12:17 ::1 GET /Scripts/jquery-1.10.2.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/ 304 0 0 59
+2019-07-11 13:12:17 ::1 GET /Scripts/bootstrap.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/ 304 0 0 66
+2019-07-11 13:12:17 ::1 GET /Scripts/modernizr-2.6.2.js - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/ 304 0 0 66
+2019-07-11 13:12:18 ::1 GET /__browserLink/requestData/5c25d50d6e4c4c37842995fef5da7098 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/ 200 0 0 44
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 13:13:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 13:13:03 ::1 GET /Home/Index - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 7132
+2019-07-11 13:13:03 ::1 GET /__browserLink/requestData/ba553d91a4bc414fb823cf1fcf8b70d7 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/Index 200 0 0 35
+2019-07-11 13:13:10 ::1 GET /Home/ - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 0 2623
+2019-07-11 13:13:10 ::1 GET /__browserLink/requestData/074d26f2477549a9bb69483abd3af141 - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 http://localhost:49812/Home/ 200 0 0 7
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 13:33:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 13:33:25 ::1 GET /Home/Index - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 64 22504
+2019-07-11 13:33:25 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 25092
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-07-11 13:43:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-07-11 13:43:55 ::1 GET /Home/View1 - 49812 - ::1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+Eureka/1.0) - 404 0 0 173759
+2019-07-11 13:43:55 ::1 GET / - 49812 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 500 0 0 293416
